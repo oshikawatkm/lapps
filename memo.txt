@@ -1,0 +1,4 @@
+//sequelize model:create --name users --underscored --attributes name:string,email:string,password:string
+
+
+//sequelize model:create --name profiles --underscored --attributes identity_pubkey:string,user_id:integer
